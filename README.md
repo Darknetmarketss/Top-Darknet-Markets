@@ -2,7 +2,7 @@
     <header>
         <h1>Top Darknet Markets of 2025</h1>
     </header>
-    <img src="https://github.com/Abacus-cc/Abacus-Market/blob/main/abacusurl.jpg" alt="Abacus Market Homepage Interface" style="max-width:100%; height:auto;">
+    <img src="https://github.com/Darknetmarketss/Top-Darknet-Markets/blob/main/shop.jpg" alt="Top Markets" style="max-width:100%; height:auto;">
     <section>
         <p>The darknet is home to a number of online marketplaces that cater to privacy-focused individuals, often facilitating the exchange of goods and services outside the bounds of traditional law enforcement. While these markets may come and go due to law enforcement actions or internal security breaches, the following are some of the most prominent darknet markets of 2025.</p>
         <h2>1. Incognito Market</h2>
